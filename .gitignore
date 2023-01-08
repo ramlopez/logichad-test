@@ -1,6 +1,7 @@
 ## -------------------------------------------------------------------------------------------------
 ## This project's additions
-
+# IDE files that should not be committed. Add more if your IDE has others
+*.code-workspace
 
 ## -------------------------------------------------------------------------------------------------
 ## GitHub's Python .gitignore template
